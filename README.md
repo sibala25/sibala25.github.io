@@ -12,9 +12,9 @@ Personal Projects 2022 - Present:
 - 06/2024: IMDb Movie Analysis (Tableau/Python)
 
 UCLA Courses 2021 - Present:
-- Introduction to Programming (C++)
-- Python with Applications I
-- Introduction to Statistical Programming with R
-- Introduction to Computer Science I (C++)
-- Introduction to Computer Science II (C++)
-- Introduction to Algorithms and Complexity
+- PIC 10A: Introduction to Programming (C++)
+- PIC 16A: Python with Applications I
+- STATS 20: Introduction to Statistical Programming with R
+- CS 31: Introduction to Computer Science I (C++)
+- CS 32: Introduction to Computer Science II (C++)
+- CS 180: Introduction to Algorithms and Complexity
