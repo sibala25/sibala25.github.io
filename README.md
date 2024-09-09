@@ -1,17 +1,19 @@
-# sibala25.github.io Portfolio
+# Aashna Sibal Portfolio
 
-Personal Projects 2022 - Present:
+## Personal Projects 2022 - Present:
+- 2022:
+  * Google Data Analytics Capstone Project (R)
+  * Palmer's Penguins Data Science Project (Python)
+  * How Does Age Impact Olympic Swimming Performance? (R)
+- 2023:
+  * Predicting the 2023 Formula One Season (R)
+  * Pain Reliever Misuse and Abuse Data Analysis (Python/R)
+  * Amazon Review Analysis (Python)
+- 2024:
+  * Sign Language Recognition (Python)
+  * IMDb Movie Analysis (Tableau/Python)
 
-- 09/2022: Google Data Analytics Capstone Project (R)
-- 12/2022: Palmer's Penguins Data Science Project (Python)
-- 12/2022: How Does Age Impact Olympic Swimming Performance? (R)
-- 04/2023: Predicting the 2023 Formula One Season (R)
-- 12/2023: Pain Reliever Misuse and Abuse Data Analysis (Python/R)
-- 12/2023: Amazon Review Analysis (Python)
-- 03/2024: Sign Language Recognition (Python)
-- 06/2024: IMDb Movie Analysis (Tableau/Python)
-
-UCLA Courses 2021 - Present:
+## UCLA Coursework 2021 - Present:
 - PIC 10A: Introduction to Programming (C++)
 - PIC 16A: Python with Applications I
 - STATS 20: Introduction to Statistical Programming with R
