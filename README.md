@@ -1,6 +1,6 @@
 # sibala25.github.io Portfolio
 
-Personal Projects Sept 2022 - Present:
+Personal Projects 2022 - Present:
 
 - 09/2022: Google Data Analytics Capstone Project (R)
 - 12/2022: Palmer's Penguins Data Science Project (Python)
@@ -11,7 +11,7 @@ Personal Projects Sept 2022 - Present:
 - 03/2024: Sign Language Recognition (Python)
 - 06/2024: IMDb Movie Analysis (Tableau/Python)
 
-Class Assignments Sept 2022 - Present:
+UCLA Courses 2021 - Present:
 - Introduction to Programming (C++)
 - Python with Applications I
 - Introduction to Statistical Programming with R
