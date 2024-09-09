@@ -15,6 +15,6 @@ Class Assignments Sept 2022 - Present:
 - Introduction to Programming (C++)
 - Python with Applications I
 - Introduction to Statistical Programming with R
-- Introduction to Computer Science I
-- Introduction to Computer Science II
+- Introduction to Computer Science I (C++)
+- Introduction to Computer Science II (C++)
 - Introduction to Algorithms and Complexity
