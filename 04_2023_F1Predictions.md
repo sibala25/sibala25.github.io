@@ -1,1 +1,1 @@
-Article Link: https://www.bruinsportsanalytics.com/post/f1-preds
+Article Link: https://www.bruinsportsanalytics.org/journalism/predicting-the-2023-formula-one-season
